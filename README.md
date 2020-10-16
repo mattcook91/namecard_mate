@@ -1,2 +1,2 @@
 # namecard_mate
-online_namecard
+namcard_mate
